@@ -6,9 +6,12 @@ Welcome to my project portfolio. This repository serves as a central place for p
 
 ## 项目目录 · Projects
 
-作品集正在整理中，具体项目将在完成整理后陆续添加。
+### 全国大学生数学建模竞赛（国赛） · CUMCM
 
-Project details will be added as the portfolio is prepared.
+China Undergraduate Mathematical Contest in Modeling
+
+- [论文 · Paper (PDF)](projects/cumcm/CUMCM-Paper.pdf)
+- [支撑材料 · Supporting Materials (RAR)](projects/cumcm/CUMCM-Supporting-Materials.rar)
 
 ## 查阅说明 · Guide
 
