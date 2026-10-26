@@ -13,9 +13,9 @@ China Undergraduate Mathematical Contest in Modeling
 - [论文 · Paper (PDF)](projects/cumcm/CUMCM-Paper.pdf)
 - [支撑材料 · Supporting Materials (RAR)](projects/cumcm/CUMCM-Supporting-Materials.rar)
 
-### 个人项目：股票数据清洗与滑动窗口构建
+### 个人项目：基于 Transformer 的 A 股预测
 
-Python 股票日频数据预处理、复权价格计算、60 日窗口筛选与训练／验证／测试划分。
+目前已完成数据清洗、滑动窗口构建及训练集、验证集和测试集划分，正在搭建 Transformer 预测模型。
 
 - [项目说明与四个 Python 脚本](projects/stock-data-preprocessing/)
 - [全部结果文件（ZIP）](https://github.com/haha947/portfolio/releases/download/personal-project-v1/Personal-Project-Results.zip)
