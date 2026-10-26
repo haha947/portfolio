@@ -1,6 +1,6 @@
 # Ron Yuan | 项目与研究作品集
 
-欢迎访问我的项目作品集。本仓库用于集中展示项目介绍、研究成果、代码与演示，方便老师和招聘方查阅。
+欢迎访问我的项目作品集。本仓库用于集中展示项目介绍、研究成果、代码与演示。
 
 Welcome to my project portfolio. This repository serves as a central place for project summaries, research, source code, and demonstrations.
 
