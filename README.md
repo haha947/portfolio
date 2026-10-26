@@ -20,17 +20,6 @@ China Undergraduate Mathematical Contest in Modeling
 - [项目说明与四个 Python 脚本](projects/stock-data-preprocessing/)
 - [全部结果文件（ZIP）](https://github.com/haha947/portfolio/releases/download/personal-project-v1/Personal-Project-Results.zip)
 
-## 查阅说明 · Guide
-
-每个项目将说明：
-
-- **项目背景**：研究问题、目标及应用场景。
-- **个人贡献**：本人承担的工作与实现方法。
-- **成果展示**：主要结果、图表或演示。
-- **代码与复现**：源代码、运行环境与使用步骤。
-
-Each project will describe its context, my contributions, key results, and how to run or reproduce the work.
-
 ---
 
 GitHub: [@haha947](https://github.com/haha947)
