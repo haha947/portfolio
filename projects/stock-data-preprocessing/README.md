@@ -15,6 +15,14 @@
 | `convert.py` | 将 `cut.csv` 和 `windows.csv` 转换为 Parquet。 |
 | `test.py` | 按窗口结束日期划分训练集（2021 年以前）、验证集（2021 年）及测试集（2022 年起）。 |
 
+## 开发记录
+
+- [2026-10-26 数据准备与 Transformer 后续计划](personal/2026-10-26_数据准备与Transformer计划.md)（历史记录，以当前脚本为准）
+
+2026-10-29 同步：更新了 	est.py 的标签处理代码；原有 8 个结果文件经 SHA-256 比对均未变化，继续使用下方结果包。
+
+当前标签代码尚未跑通：合并键使用 nd_date，而窗口清单使用 nd_one；目前输出了 7 项标签的代码，与计划中的四价格目标也尚待统一。此次同步保留本地代码原样。
+
 ## 全部结果文件
 
 [下载 Personal-Project-Results.zip](https://github.com/haha947/portfolio/releases/download/personal-project-v1/Personal-Project-Results.zip)
